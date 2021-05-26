@@ -28,3 +28,6 @@
 poetry venv config 
 
 https://python-poetry.org/docs/configuration/
+
+setup video
+https://www.youtube.com/watch?v=-c8DASfFNZM
