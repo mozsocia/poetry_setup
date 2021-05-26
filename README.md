@@ -20,3 +20,11 @@
 
 #### -- create venv in project folder
 `poetry config virtualenvs.in-project true`
+
+
+---
+---
+
+poetry venv config 
+
+https://python-poetry.org/docs/configuration/
